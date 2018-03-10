@@ -8,7 +8,11 @@
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+		html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+		.w3-teal1, .w3-hover-teal1:hover {
+			
+			background-color: #ffffff!important;
+		}
 </style>
 <body class="w3-light-grey">
 
@@ -135,7 +139,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 		  <h5 class="w3-opacity"><b>Web Designing</b></h5>
 		  <hr>
 		  
-          <hr>
+          
         </div>
         
       </div>
@@ -152,27 +156,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
    
 </div>
 
-<footer class="w3-container w3-teal w3-center w3-margin-top">
-  <h3>Follow up me on social media Links</h3>
- 
-	  <a href="https://www.facebook.com/rajnagarajatp" 		target="_blank">
-			<i class=" fa fa-facebook-official w3-hover-opacity btn-md "></i>
-	  </a> 
-    
-		<a href="https://www.instagram.com/?hl=en" 		target="_blank">
-				<i class="fa fa-instagram w3-hover-opacity col-sm-1"></i>
-		</a> 
+<footer class="w3-container w3-teal1 w3-center w3-margin-top">
 
-		  <a href="https://twitter.com/7799514314" 		target="_blank">
-			  <i class="fa fa-twitter w3-hover-opacity"></i>
-		  </a> 
-		  <a href="https://www.linkedin.com/in/nagaraju-p/" target="_blank">
-			  <i class="fa fa-linkedin w3-hover-opacity"></i>
-		  </a> 
+  <h3 class="text-primary" style="color:#009688" >Find me on social media Links</h3>
+ 
+		<a href="https://www.facebook.com/rajnagarajatp" 		class="col-offset-1 fa fa-facebook-square fa-2x " target="_blank"></a> 		
+		<a href="https://www.instagram.com/?hl=en" style="color:red" 	class="fa fa-instagram col-offset-1 fa-2x"	target="_blank"></a> 
+		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter-square fa-2x col-offset-1  "	target="_blank"> </a> 
+		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " target="_blank"></a> 
         
-   </div>   
         
-  <p>Website : <a href="https://www.nagarajforu.ga" target="_blank">Nagarajforu.ga</a></p>
+		
+			
+			
+		
+  <p class="text-primary" > Website : <a href="https://www.nagarajup.herokuaoo.com" target="_blank"> https://www.Nagarajup.herokuapp.com</a></p>
 </footer>
 
 </body>
