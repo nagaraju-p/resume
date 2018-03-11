@@ -162,8 +162,8 @@
  
 		<a href="https://www.facebook.com/rajnagarajatp" 		class="col-offset-1 fa fa-facebook-square fa-2x " target="_blank"></a> 		
 		<a href="https://www.instagram.com/?hl=en" style="color:red" 	class="fa fa-instagram col-offset-1 fa-2x"	target="_blank"></a> 
-		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " target="_blank"></a> 
-		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter fa-2x col-offset-1  "style="color:#42c2f4;background-color:#fff;" target="_blank"> </a> 
+		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " style="color:#347898" target="_blank"></a> 
+		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter fa-2x col-offset-1  " style="color:#42c2f4;background-color:#fff;" target="_blank"> </a> 
 		
         
         
