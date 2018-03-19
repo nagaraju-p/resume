@@ -3,7 +3,6 @@
 <title>Resume</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="images/favicon.ico" rel="icon" type="image/x-icon" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
@@ -28,7 +27,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="images/PHOT1.jpg" style="width:100%" alt="Avatar">
+          <img src="images/phot1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-red" style="text-align:right;">
             <h2 >Nagaraju P</h2>
           </div>
@@ -89,7 +88,8 @@
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer /cenitithub.com </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2017 - Current</h6>
-          <p>Initially  i joined as intern cenitithub  designed  some web templates/layout by using Html and Css ,By learn Javascript/JQurey and AngulorJS later they recruted me as WebDeveloper. </p>
+          <p>	Create Professional web templates, wireframe and elegant template.Good Experience in PSD to HTML Conversion.Front end Technologies Adobe Photo Shop, Template Creations, Notepad ++, HTML5, CSS3, Bootstrap and Good Experience in responsive web designing and rich internet application.Conceptual understanding of User Interface Design and the Design Process,Ability to work in teams and communicate design plans effectively.
+ </p>
           <hr>
         </div>
         <div class="w3-container">
@@ -100,7 +100,7 @@
       </div>
 
       <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Sri Krishnadevaraya Engineering College </b></h5>
@@ -163,9 +163,8 @@
  
 		<a href="https://www.facebook.com/rajnagarajatp" 		class="col-offset-1 fa fa-facebook-square fa-2x " target="_blank"></a> 		
 		<a href="https://www.instagram.com/?hl=en" style="color:red" 	class="fa fa-instagram col-offset-1 fa-2x"	target="_blank"></a> 
-		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " style="color:#347898" target="_blank"></a> 
-		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter fa-2x col-offset-1  " style="color:#42c2f4;background-color:#fff;" target="_blank"> </a> 
-		
+		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter-square fa-2x col-offset-1  "	target="_blank"> </a> 
+		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " target="_blank"></a> 
         
         
 		
