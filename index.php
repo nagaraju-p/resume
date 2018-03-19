@@ -88,7 +88,7 @@
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer /cenitithub.com </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2017 - Current</h6>
-          <p>	Create Professional web templates, wireframe and elegant template.Good Experience in PSD to HTML Conversion.Front end Technologies Adobe Photo Shop, Template Creations, Notepad ++, HTML5, CSS3, Bootstrap and Good Experience in responsive web designing and rich internet application.Conceptual understanding of User Interface Design and the Design Process,Ability to work in teams and communicate design plans effectively.
+          <p style="text-indent:2em">Create Professional web templates, wireframe and elegant template.Good Experience in PSD to HTML Conversion.Front end Technologies Adobe Photo Shop, Template Creations, Notepad ++, HTML5, CSS3, Bootstrap and Good Experience in responsive web designing and rich internet application.Conceptual understanding of User Interface Design and the Design Process,Ability to work in teams and communicate design plans effectively.
  </p>
           <hr>
         </div>
