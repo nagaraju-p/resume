@@ -30,7 +30,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="images/phot1.jpg" style="width:100%" alt="Avatar">
+          <img src="images/phot1.png" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomright w3-container w3-text-red" style="text-align:right;">
             <h2 style="color:#fff">Nagaraju P</h2>
           </div>
