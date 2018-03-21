@@ -162,11 +162,11 @@
 <footer class="w3-container w3-teal1 w3-center w3-margin-top">
 
   <h3 class="text-primary" style="color:#009688" >Find me on social media Links</h3>
- 
 		<a href="https://www.facebook.com/rajnagarajatp" 		class="col-offset-1 fa fa-facebook-square fa-2x " target="_blank"></a> 		
-		<a href="https://www.instagram.com/?hl=en" style="color:red" 	class="fa fa-instagram col-offset-1 fa-2x"	target="_blank"></a> 
+		<a href="https://www.instagram.com/?hl=en"  	class="fa fa-instagram col-offset-1 fa-2x"	target="_blank"></a> 
 		<a href="https://twitter.com/7799514314" 	class="fa fa-twitter-square fa-2x col-offset-1  "	target="_blank"> </a> 
 		<a href="https://www.linkedin.com/in/nagaraju-p/"  class="fa fa-linkedin-square fa-2x col-offset-1 " target="_blank"></a> 
+		<a href="https://github.com/10nagaraju407"  class="fa fa-github-square fa-2x col-offset-1 " target="_blank"></a> 
 		<a href="https://github.com/10nagaraju407"  class="fa fa-github fa-2x col-offset-1 " target="_blank"></a> 
 		
         
@@ -180,4 +180,3 @@
 
 </body>
 </html> 
-
