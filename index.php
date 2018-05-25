@@ -32,7 +32,7 @@
         <div class="w3-display-container">
           <img src="images/phot1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomright w3-container w3-text-red" style="text-align:right;">
-            <h2 style="color:#fff">Nagaraju P</h2>
+            <h2 style="color:#fff;margin-right:10px">Nagaraju P</h2>
           </div>
         </div>
         <div class="w3-container" style="margin-top:15px" >
